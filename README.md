@@ -1,4 +1,4 @@
-I am a 17-year-old aspiring full-stack developer from Poland. Although this title might be a bit far-fetched, I am engaged in all three pillars of development: back-end, front-end, and database systems. I am currently educating myself on Angular, TypeScript, React, Node.js, and React Native. I plan to create many projects in the future, demonstrating my abilities as a developer, but also learning a lot more through that process.
+I am a 17-year-old aspiring full-stack developer from Poland. Although this title might be a bit far-fetched, I am engaged in all three pillars of development: back-end, front-end, and database systems. I am currently educating myself on Angular, TypeScript, React, Node.js, and React Native. I plan to create many projects in the future, demonstrating my abilities as a developer, but also learning a lot of practical programming skills through that process.
 
 Projects I plan to work on in the future:
 - My own personal website using Angular/React and TypeScript
