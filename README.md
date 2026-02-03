@@ -1,4 +1,4 @@
-I am an 18-year-old aspiring IT Engineer/Developer from Poland. I am engaged in all three pillars of development: back-end, front-end, and database systems. I have experience in networking, operating systems but, I am currently educating myself on CyberSecurity, Angular, TypeScript, React, and Nest.js. I plan to create many projects in the future, demonstrating my abilities as a developer, but also learning a lot of practical programming skills through that process.
+I am an 18-year-old aspiring IT Engineer/Developer from Poland. I am engaged in all three pillars of development: back-end, front-end, and database systems. I have experience in networking, operating systems but, I am currently educating myself on Cybersecurity, Angular, TypeScript, React, and Nest.js. I plan to create many projects in the future, demonstrating my abilities as a developer, but also learning a lot of practical programming skills through that process.
 
 Projects I plan to work on in the future:
 - My own personal website using Angular/React and TypeScript
